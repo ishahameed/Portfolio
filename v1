@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Isha Hameed</title>
+</head>
+<body style="background-color:rgb(215,111,111);">
+<h1 style="text-align:center;"> About Me </h1>
+<h3> Origins </h3>
+  <p>Brithplace: Dayton, Ohio<br>
+  Birthday: Oct 29, 1999<br>
+  Hometown: Westborough<p>
+<hr>
+<h3> Places I've Traveled To </h3>
+  <p> New York <br> Connecticut <br> Texas <br> Ohio <br> Florida <br> Alaska <br> India </p>
+<hr>
+<h3> Hobbies/Interests </h3>
+  <p> Art - Mandalas<br>
+  Music - Choir<br>
+  - Bollywood Acapella <br>
+  Food!<br><p>
+<hr>
+<h3>Photos</h3>
+  <img src="propic1.jpg" width="142" height="142">
+  <img src="propic2.jpg" width="142" height="142">
+  <img src="robo.jpg" width="142" height="142">
+<h3>Favorite Memes</h3>
+  <img src="track.jpg" width="142" height="142">
+  <img src="thunderwear.jpg" width="142" height="142"
+<h3>
+</body>
+</html>
